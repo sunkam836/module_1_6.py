@@ -1,12 +1,9 @@
 # This is a sample Python script.
 course = 'Python'
-print(course)
 completed_tasks = 12
-print(completed_tasks)
 time_spent = 1.5
-print(time_spent)
 average_time = time_spent / completed_tasks
-print(average_time)
+print('курс', course, 'выполнено задач', completed_tasks, 'затрачанео времени', time_spent, 'часа' , 'время на одно задание', average_time , 'часа')
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
